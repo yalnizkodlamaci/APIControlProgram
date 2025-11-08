@@ -1,0 +1,16 @@
+C:\Users\hp\source\repos\MesajAPI\Mesaj\bin\Debug\net8.0-windows\Mesaj.exe
+C:\Users\hp\source\repos\MesajAPI\Mesaj\bin\Debug\net8.0-windows\Mesaj.deps.json
+C:\Users\hp\source\repos\MesajAPI\Mesaj\bin\Debug\net8.0-windows\Mesaj.runtimeconfig.json
+C:\Users\hp\source\repos\MesajAPI\Mesaj\bin\Debug\net8.0-windows\Mesaj.dll
+C:\Users\hp\source\repos\MesajAPI\Mesaj\bin\Debug\net8.0-windows\Mesaj.pdb
+C:\Users\hp\source\repos\MesajAPI\Mesaj\obj\Debug\net8.0-windows\Mesaj.Form1.resources
+C:\Users\hp\source\repos\MesajAPI\Mesaj\obj\Debug\net8.0-windows\Mesaj.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\MesajAPI\Mesaj\obj\Debug\net8.0-windows\Mesaj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\MesajAPI\Mesaj\obj\Debug\net8.0-windows\Mesaj.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\MesajAPI\Mesaj\obj\Debug\net8.0-windows\Mesaj.AssemblyInfo.cs
+C:\Users\hp\source\repos\MesajAPI\Mesaj\obj\Debug\net8.0-windows\Mesaj.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\MesajAPI\Mesaj\obj\Debug\net8.0-windows\Mesaj.dll
+C:\Users\hp\source\repos\MesajAPI\Mesaj\obj\Debug\net8.0-windows\refint\Mesaj.dll
+C:\Users\hp\source\repos\MesajAPI\Mesaj\obj\Debug\net8.0-windows\Mesaj.pdb
+C:\Users\hp\source\repos\MesajAPI\Mesaj\obj\Debug\net8.0-windows\Mesaj.genruntimeconfig.cache
+C:\Users\hp\source\repos\MesajAPI\Mesaj\obj\Debug\net8.0-windows\ref\Mesaj.dll
