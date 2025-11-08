@@ -10,9 +10,12 @@ builder.Services.AddSwaggerGen();
 var app = builder.Build();
 
 
-app.MapGet("/Mesaj", () =>
+app.MapPost("/Mesaj", async (HttpRequest request) =>
 {
-    return "API AKTÝF";
+    using var reader = new StreamReader(request.Body);
+    string gelenMesaj = await reader.ReadToEndAsync();
+    Console.WriteLine($"Gelen Mesaj : {gelenMesaj} ");
+    return ("Mesaj API Penceresinde Gözüktü.");
 });
 
 // Configure the HTTP request pipeline.

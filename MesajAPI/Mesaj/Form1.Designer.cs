@@ -31,11 +31,12 @@
             button1 = new Button();
             panel1 = new Panel();
             label1 = new Label();
+            textBox1 = new TextBox();
             SuspendLayout();
             // 
             // button1
             // 
-            button1.Location = new Point(171, 377);
+            button1.Location = new Point(171, 403);
             button1.Name = "button1";
             button1.Size = new Size(429, 23);
             button1.TabIndex = 0;
@@ -60,11 +61,20 @@
             label1.TabIndex = 3;
             label1.Text = "API KONTROL BİLGİSİ";
             // 
+            // textBox1
+            // 
+            textBox1.Location = new Point(251, 365);
+            textBox1.Name = "textBox1";
+            textBox1.Size = new Size(258, 23);
+            textBox1.TabIndex = 4;
+            textBox1.TextChanged += textBox1_TextChanged_1;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(textBox1);
             Controls.Add(label1);
             Controls.Add(panel1);
             Controls.Add(button1);
@@ -79,5 +89,6 @@
         private Button button1;
         private Panel panel1;
         private Label label1;
+        private TextBox textBox1;
     }
 }
